@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chemaguerra
-- 👀 I’m interested in Computer Graphics, physics simulation, image processing, and VR.
+- 👀 I’m interested in Computer Graphics, physics simulation, and VR.
 - 🌱 I’m CEO and Lead Engineer at RandomControl SL
 - 📫 chema@maverickrender.com
